@@ -16,7 +16,7 @@
     "express": "~4.16.0",
     "fb": "^2.0.0",
     "google-auth-library": "^2.0.0",
-    "googleapis": "^33.0.0",
+    "googleapis": "^39.1.0",
     "hashmap": "^2.3.0",
     "helmet": "^3.12.1",
     "http-errors": "~1.6.2",
