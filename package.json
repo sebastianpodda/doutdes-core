@@ -37,7 +37,7 @@
     "request": "^2.87.0",
     "request-promise": "^4.2.2",
     "sendmail": "^1.4.1",
-    "sequelize": "^4.44.3",
+    "sequelize": "^5.15.1",
     "shelljs": "^0.8.4"
   }
 }
